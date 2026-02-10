@@ -263,6 +263,14 @@ DELETE http://localhost:8080/api/books/3
 - Easy for both humans and computers to read
 
 ---
+SCREEN SHOTS FOR OUT PUTS
+<img width="1267" height="915" alt="Screenshot 2026-02-04 204213" src="https://github.com/user-attachments/assets/ccb7d356-df15-47c9-b8ce-8f5717454c0f" />
+<img width="1275" height="899" alt="Screenshot 2026-02-04 214103" src="https://github.com/user-attachments/assets/7a20e9cf-eda2-4e77-904e-ca819f6a6bcf" />
+<img width="1285" height="900" alt="Screenshot 2026-02-04 214244" src="https://github.com/user-attachments/assets/78daeaaa-ad70-4bc5-b5d0-c59bb4db3f31" />
+<img width="1296" height="891" alt="Screenshot 2026-02-04 214624" src="https://github.com/user-attachments/assets/538171cb-1d76-4ebb-9b8d-aa2812af5578" />
+<img width="1901" height="756" alt="Screenshot 2026-02-05 111147" src="https://github.com/user-attachments/assets/a1f6dbd8-91a3-4139-b2c1-dc8a82e78831" />
+
+
 
 ## Author
 SHEDRICK BUCAGU ELISA  
