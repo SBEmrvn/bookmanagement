@@ -1,13 +1,7 @@
-# Question 1: Library Book Management API
+# Question 1: Library-Book-Management-API
 
 ## Project Description
 A RESTful API for library book management built with Spring Boot.
-
-## Technologies Used
-- Java 17/21
-- Spring Boot 3.2.2
-- Maven
-- Spring Web
 
 ## Project Structure
 ```
@@ -21,31 +15,8 @@ src/main/java/com/library/question1libraryapi/
 └── Question1LibraryApiApplication.java
 ```
 
-## How to Run the Application
 
-### Prerequisites
-- Java JDK 17 or higher
-- Maven (included via Maven Wrapper)
-
-### Steps to Run
-1. Clone the repository
-2. Navigate to project directory:
-   ```bash
-   cd question1-library-api
-   ```
-3. Run the application:
-   
-   **Windows:**
-   ```bash
-   .\mvnw.cmd spring-boot:run
-   ```
-   
-   **Mac/Linux:**
-   ```bash
-   ./mvnw spring-boot:run
-   ```
-
-4. The application will start on `http://localhost:8080`
+1. The application will start on `http://localhost:8080`
 
 ## API Endpoints
 
